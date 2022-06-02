@@ -1,0 +1,2 @@
+##dir.create("/Users/wangwill/R_Language/eng_covid")
+setwd("/Users/wangwill/R_Language/eng_covid")
